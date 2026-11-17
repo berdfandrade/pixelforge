@@ -1,0 +1,71 @@
+scene level1
+backdrop #262d4a #2e375c #e8e6df
+tilemap 40 12
+row #......................................#
+row #......................................#
+row #......................................#
+row #......................................#
+row #......................................#
+row #......................................#
+row #......................................#
+row #......................................#
+row #...................................####
+row #................................#######
+row ########################...#############
+row ########################...#############
+
+entity 1 Player
+transform 49 144
+sprite hero 10
+body dynamic 1 1 10 15 1
+controller 90 220 0.1 0.12
+
+entity 2 Plataforma A
+group Plataformas
+transform 168 112
+sprite platform 5
+body static 0 0 48 14 1
+
+entity 3 Plataforma B
+group Plataformas
+transform 272 84
+sprite platform 5
+body static 0 0 48 14 1
+
+entity 4 Plataforma C
+group Plataformas
+transform 384 120
+sprite platform 5
+body static 0 0 48 14 1
+
+entity 5 Slime
+group Inimigos
+transform 183 104
+sprite slime 8
+body dynamic 1 2 14 8 1
+patrol 20
+
+entity 6 Slime
+group Inimigos
+transform 470 150
+sprite slime 8
+body dynamic 1 2 14 8 1
+patrol 28
+
+entity 7 Moeda
+group Moedas
+transform 120 136
+sprite coin 6
+pickup 1
+
+entity 8 Moeda
+group Moedas
+transform 292 64
+sprite coin 6
+pickup 1
+
+entity 9 Moeda
+group Moedas
+transform 404 100
+sprite coin 6
+pickup 1

@@ -1,0 +1,68 @@
+scene vila
+camera isometric
+backdrop #1b1e26 #2e375c #e8e6df
+tilemap 30 20
+row ##############################
+row #............................#
+row #............................#
+row #...#####..........######....#
+row #...####...........######....#
+row #...####...........##.###....#
+row #...##.......................#
+row #............................#
+row #............................#
+row #............................#
+row #............................#
+row #............................#
+row #.....................#......#
+row #...###...............#......#
+row #...###......................#
+row #...###...............#.#....#
+row #...###......................#
+row #............................#
+row #............................#
+row ##############################
+
+entity 1 Player
+transform 224 128
+sprite hero 10
+body dynamic 1 10 10 6 1
+topdown 70
+
+entity 2 Slime
+group Inimigos
+transform 64 128
+sprite slime 8
+body dynamic 1 4 14 6 1
+patrol 22
+
+entity 3 Slime
+group Inimigos
+transform 300 272
+sprite slime 8
+body dynamic 1 4 14 6 1
+patrol 30
+
+entity 4 Moeda
+group Moedas
+transform 108 116
+sprite coin 6
+pickup 1
+
+entity 5 Moeda
+group Moedas
+transform 340 96
+sprite coin 6
+pickup 1
+
+entity 6 Moeda
+group Moedas
+transform 140 260
+sprite coin 6
+pickup 1
+
+entity 7 Moeda
+group Moedas
+transform 420 280
+sprite coin 6
+pickup 1

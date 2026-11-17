@@ -1,0 +1,43 @@
+size 16 16
+color g #6aa874
+color G #4f8c5d
+color e #3e6e4a
+color r #6b4630
+color R #573826
+color p #7d5740
+anim idle 1
+frame
+rrrrrrrrrrRrrrrp
+prrrRrrrrrrrrrrr
+rrrRrrrrprrrRrrr
+rrrrrrrrrrrRrrrr
+rprrrRrrrrrrrrrr
+rrrrRrrrrprrrRrr
+rrrrrrrrrrrrRrrr
+rrprrrRrrrrrrrrr
+rrrrrRrrrrprrrRr
+rrrrrrrrrrrrrRrr
+rrrprrrRrrrrrrrr
+rrrrrrRrrrrprrrR
+RrrrrrrrrrrrrrRr
+rrrrprrrRrrrrrrr
+rrrrrrrRrrrrprrr
+rRrrrrrrrrrrrrrR
+anim alt 1
+frame
+RRRRRRrRRRRpRRRr
+rRRRRRRRRRRRRRrR
+RRRRpRRRrRRRRRRR
+RRRRRRRrRRRRpRRR
+RrRRRRRRRRRRRRRr
+rRRRRpRRRrRRRRRR
+RRRRRRRRrRRRRpRR
+RRrRRRRRRRRRRRRR
+RrRRRRpRRRrRRRRR
+RRRRRRRRRrRRRRpR
+RRRrRRRRRRRRRRRR
+RRrRRRRpRRRrRRRR
+RRRRRRRRRRrRRRRp
+pRRRrRRRRRRRRRRR
+RRRrRRRRpRRRrRRR
+RRRRRRRRRRRrRRRR

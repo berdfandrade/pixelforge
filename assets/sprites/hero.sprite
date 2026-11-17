@@ -1,0 +1,132 @@
+size 12 16
+color k #1a1c22
+color o #ff7a3d
+color d #c4532a
+color s #f2c29b
+color e #1a1c22
+color t #4fd1c5
+color u #2e9e94
+color p #3b3f52
+color b #22242e
+anim idle 4
+frame
+...kkkkkk...
+..kooooookk.
+.kooooooodk.
+.kodssssssk.
+.kdsesssesk.
+.kssssssssk.
+..ksssssk...
+..kkttttkk..
+.kttttttttk.
+kstttttttusk
+.kuttttttuk.
+..kppppppk..
+..kppkkppk..
+..kpk..kpk..
+..kbk..kbk..
+.kbbk..kbbk.
+frame
+...kkkkkk...
+..kooooookk.
+.kooooooodk.
+.kodssssssk.
+.kdsesssesk.
+.kssssssssk.
+..ksssssk...
+..kkttttkk..
+.kttttttttk.
+kstttttttusk
+.kuttttttuk.
+..kppppppk..
+..kppkkppk..
+..kpk..kpk..
+..kbk..kbk..
+.kbbk..kbbk.
+frame
+...kkkkkk...
+..kooooookk.
+.kooooooodk.
+.kodssssssk.
+.kdsesssesk.
+.kssssssssk.
+..ksssssk...
+..kkttttkk..
+.kttttttttk.
+kstttttttusk
+.kuttttttuk.
+..kppppppk..
+..kppkkppk..
+..kpk..kpk..
+..kbk..kbk..
+.kbbk..kbbk.
+frame
+...kkkkkk...
+..kooooookk.
+.kooooooodk.
+.kodssssssk.
+.kdsssssssk.
+.kssssssssk.
+..ksssssk...
+..kkttttkk..
+.kttttttttk.
+kstttttttusk
+.kuttttttuk.
+..kppppppk..
+..kppkkppk..
+..kpk..kpk..
+..kbk..kbk..
+.kbbk..kbbk.
+anim run 10
+frame
+...kkkkkk...
+..kooooookk.
+.kooooooodk.
+.kodssssssk.
+.kdsesssesk.
+.kssssssssk.
+..ksssssk...
+..kkttttkk..
+.kttttttttk.
+kstttttttusk
+.kuttttttuk.
+..kppppppk..
+..kppkkppk..
+.kpk....kpk.
+.kbk....kbk.
+kbbk....kbbk
+frame
+...kkkkkk...
+..kooooookk.
+.kooooooodk.
+.kodssssssk.
+.kdsesssesk.
+.kssssssssk.
+..ksssssk...
+..kkttttkk..
+.kttttttttk.
+kstttttttusk
+.kuttttttuk.
+..kppppppk..
+..kppppppk..
+...kpppk....
+...kbbbk....
+...kbbbbk...
+anim jump 1
+frame
+...kkkkkk...
+..kooooookk.
+.kooooooodk.
+.kodssssssk.
+.kdsesssesk.
+.kssssssssk.
+..ksssssk...
+..kkttttkk..
+.kttttttttk.
+kstttttttusk
+.kuttttttuk.
+..kppppppk..
+..kppkkppk..
+.kpk...kbbk.
+.kbbk..kkk..
+..kk........

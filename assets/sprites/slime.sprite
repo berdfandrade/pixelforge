@@ -1,0 +1,28 @@
+size 16 10
+color k #1a1c22
+color v #9d7bff
+color l #c9b6ff
+color d #6b4fd1
+anim idle 3
+frame
+.....kkkkkk.....
+...kkvvvvvvkk...
+..kvllvvvvvvvk..
+.kvllvvvvvvvvvk.
+.kvvvkvvvvkvvvk.
+kvvvvkvvvvkvvvvk
+kvvvvvvvvvvvvvvk
+kvvvvvvvvvvvvddk
+kddvvvvvvvvvdddk
+.kkkkkkkkkkkkkk.
+frame
+................
+...kkkkkkkkkk...
+..kvllvvvvvvvk..
+.kvllvvvvvvvvvk.
+.kvvvkvvvvkvvvk.
+kvvvvkvvvvkvvvvk
+kvvvvvvvvvvvvvvk
+kvvvvvvvvvvvvddk
+kddvvvvvvvvvdddk
+.kkkkkkkkkkkkkk.

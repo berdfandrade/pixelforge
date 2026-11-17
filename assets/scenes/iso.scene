@@ -1,0 +1,49 @@
+scene ilha
+camera isometric
+backdrop #1b2233 #2e375c #e8e6df
+tilemap 14 14
+row ##############
+row #............#
+row #............#
+row #........##..#
+row #...#........#
+row #...#........#
+row #............#
+row #............#
+row #............#
+row #........#...#
+row #....###.....#
+row #............#
+row #............#
+row ##############
+
+entity 1 Player
+transform 40 40
+sprite hero 10
+body dynamic 0 0 10 10 1
+topdown 60
+
+entity 2 Slime
+group Inimigos
+transform 112 96
+sprite slime 8
+body dynamic 0 0 12 12 1
+patrol 20
+
+entity 3 Moeda
+group Moedas
+transform 120 40
+sprite coin 6
+pickup 1
+
+entity 4 Moeda
+group Moedas
+transform 40 132
+sprite coin 6
+pickup 1
+
+entity 5 Moeda
+group Moedas
+transform 168 168
+sprite coin 6
+pickup 1

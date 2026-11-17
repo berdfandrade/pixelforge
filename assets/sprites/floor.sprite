@@ -1,0 +1,41 @@
+size 16 16
+color m #5a9a5f
+color M #4f8c55
+color t #3f7448
+color f #e8d27a
+anim idle 1
+frame
+mmmmmmmmmmmmmmmm
+mmmttmMmmmmmmmmm
+mmmMmmmmmmmmMmmm
+mtmmmmfmmmmmMmmm
+Mmmmmmmmmmmmmmmm
+mmmmmmmmtmmmmmmm
+mmmmmmtmmmmmffmm
+mmmMtmmmtmmmmmmm
+mmMmmmmMmmmmmmmm
+mMMfmmmmmmmmmmmm
+mmmmmmmmtmtfmmmm
+tmmmMMmmmmmmmmmm
+mtmttmmmmmmmmmmm
+tmtmmmmmtmmmfmmm
+mmmmmtmmmmmmttmm
+mmmtmmmmmmmmmmMm
+anim alt 1
+frame
+MMmMMMMMMfMMMMMM
+MMMMMMMMtMMMMMMf
+MMMmMmMMMMMMMmMM
+MMMMMMMMMMMMmMMM
+MMMMMMMMMMMMMMtM
+MMtMMMMMMMMMtMMM
+tMMmMMmMMMMMfMMM
+MtMMMMMMMMMMMMMM
+MMmfMMMMMMMMMtMM
+fMtMMMMMMMMMMMMM
+MMMmMMMMtMMMMmMM
+MMMMmMMMMMMmMMMM
+MMMMmMMMMMMmMMMM
+mMMMMmMttMMMMMMM
+MmMMMMMMMMMMMfMM
+MMMMfMMmMtMmMMMm

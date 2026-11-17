@@ -1,0 +1,42 @@
+size 8 8
+color k #1a1c22
+color y #ffc94d
+color h #fff1b8
+color d #c98a1e
+anim idle 8
+frame
+..kkkk..
+.kyyyyk.
+kyhyyyyk
+kyhyydyk
+kyyyydyk
+kyyyyddk
+.kyddyk.
+..kkkk..
+frame
+...kk...
+..kyyk..
+..khyk..
+..kyyk..
+..kyyk..
+..kydk..
+..kydk..
+...kk...
+frame
+...kk...
+...kk...
+...kk...
+...kk...
+...kk...
+...kk...
+...kk...
+...kk...
+frame
+...kk...
+..kyyk..
+..khyk..
+..kyyk..
+..kyyk..
+..kydk..
+..kydk..
+...kk...

@@ -1,0 +1,32 @@
+:root {
+  --background: #13151b;
+  --panel: #1b1e26;
+  --card: #1f222b;
+  --field: #14161c;
+  --border: #2a2e39;
+
+  --text: #e4e6eb;
+  --text-muted: #8a8f9c;
+
+  --accent: #ff7a3d;
+  --accent-soft: #3a2318;
+  --highlight: #4fd1c5;
+  --danger: #ff5c5c;
+  --warning: #ffc94d;
+
+  --tag-entity: #9d7bff;
+  --tag-terrain: #4a8a5c;
+  --tag-pickup: #ffc94d;
+
+  --header-height: 62px;
+  --toolbar-height: 52px;
+  --sidebar-width: 230px;
+  --inspector-width: 290px;
+  --bottom-height: 172px;
+  --status-height: 26px;
+  --row-height: 31px;
+  --padding: 12px;
+
+  --font-size: 13px;
+  --mono-size: 12px;
+}

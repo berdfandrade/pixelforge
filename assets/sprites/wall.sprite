@@ -1,0 +1,44 @@
+size 16 16
+color h #9a9fb6
+color s #6f7490
+color c #5a5f78
+color d #4b4f63
+color o #2f3242
+color b #7a5a48
+color B #8a6a56
+anim idle 1
+frame
+hhhhhhhhhhhhhhhh
+hscssssssssssssd
+hssscssssssssssd
+hssssscssssssssd
+hssssssscssssssd
+hssssssssscssssd
+hssssssssssscssd
+hcsssssssssssscd
+hsscsssssssssssd
+hsssscsssssssssd
+hsssssscsssssssd
+hsssssssscsssssd
+hsssssssssscsssd
+hsssssssssssscsd
+hscssssssssssssd
+dddddddddddddddd
+anim face 1
+frame
+hhhhhhhhhhhhhhhh
+ssssssssssssssss
+dddddddddddddddd
+bbbbbbboBBBBBBBo
+bbbbbbboBBBBBBBo
+bbbbbbboBBBBBBBo
+oooooooooooooooo
+bbboBBBBBBBobbbb
+bbboBBBBBBBobbbb
+bbboBBBBBBBobbbb
+oooooooooooooooo
+bbbbbbboBBBBBBBo
+bbbbbbboBBBBBBBo
+bbbbbbboBBBBBBBo
+oooooooooooooooo
+bbboBBBBBBBobbbb
